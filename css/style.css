@@ -1,0 +1,10 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #2171BA;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.white { 
+    background-color: #fff;
+}
